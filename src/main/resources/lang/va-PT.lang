@@ -103,17 +103,17 @@ ui.table.state=Tryb
 ui.table.type=Typ
 ui.table.releasetime=Czas wydania
 
-ui.jrepath.label=Ścieżka Javy:
-ui.jrepath.filechooser.title=Wybierz ścieżkę Javy:
+ui.jrepath.label=Pirkamn na Java:
+ui.jrepath.filechooser.title=Di avfka pirkamn na Java:
 
 ui.profile.label=Profile:
-ui.profile.add=Dodaj
-ui.profile.remove=Skasuj
+ui.profile.add=Em
+ui.profile.remove=Gem
 
-ui.directory.label=Biblioteki:
-ui.directory.add=Dodaj
-ui.directory.remove=Skasuj
-ui.directory.pathlabel=Ścieżka:
+ui.directory.label=Avalarae:
+ui.directory.add=Em
+ui.directory.remove=Gem
+ui.directory.pathlabel=Pirkamn:
 ui.directory.saves=Zapisy
 ui.directory.resourcepacks=Paczki zasobów
 ui.directory.texturepacks=Paczki obrazków
@@ -123,7 +123,7 @@ ui.directory.tab.install=Zainstaluj
 ui.directory.tab.enable=Włącz
 ui.directory.tab.disable=Wyłącz
 ui.directory.tab.copy=Skopiuj
-ui.directory.tab.remove=Skasuj
+ui.directory.tab.remove=Gem
 ui.directory.tab.item=Nazwa
 ui.directory.tab.lastmodified=Ostatnio zmieniane
 ui.directory.tab.version=Wersja
@@ -138,14 +138,14 @@ ui.runpath.label=Katalog pracy
 ui.runpath.filechooser.title=Wybierz katalog pracy
 
 ui.char.title=Wybierz znak
-ui.char.ok=Dobra
+ui.char.ok=Jed
 ui.char.cancel=Anuluj
 
 ui.update.title=Aktualizowanie...
 ui.launch=Uruchom
 ui.memory.label=Wielkość pamięci(MB):
 ui.offline=Bez internetu
-ui.ok=Dobra
+ui.ok=Jed
 ui.cancel=Anuluj
 ui.password.label=Hasło:
 ui.savepassword=Zapisz hasło
